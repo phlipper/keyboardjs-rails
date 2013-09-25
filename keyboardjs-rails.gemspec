@@ -16,6 +16,6 @@ Gem::Specification.new do |gem|
   gem.version       = KeyboardJS::Rails::VERSION
 
   gem.add_dependency "railties", ">= 3.0.0"
-  gem.add_development_dependency "bundler", "~> 1.1.3"
-  gem.add_development_dependency "rake", "~> 0.9.2.2"
+  gem.add_development_dependency "bundler"
+  gem.add_development_dependency "rake"
 end

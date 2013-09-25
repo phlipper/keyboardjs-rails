@@ -51,6 +51,14 @@ You're done!
 5. Create new Pull Request
 
 
+## Contributors
+
+Many thanks go to the following who have contributed to making this cookbook even better:
+
+* **[@kmmndr](https://github.com/kmmndr)**
+    * upgrade keyboardjs to v0.4.1
+
+
 ## License
 
 **keyboardjs-rails**

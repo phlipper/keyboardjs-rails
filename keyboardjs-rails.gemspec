@@ -7,6 +7,7 @@ Gem::Specification.new do |gem|
   gem.description   = %q{KeyboardJS, typed up for the Rails 3.0 and up. Sweet!}
   gem.summary       = %q{KeyboardJS, typed up for the Rails 3.0 and up. Sweet!}
   gem.homepage      = "https://github.com/phlipper/keyboardjs-rails"
+  gem.license       = "MIT"
 
   gem.executables   = `git ls-files -- bin/*`.split("\n").map{ |f| File.basename(f) }
   gem.files         = `git ls-files`.split("\n")
